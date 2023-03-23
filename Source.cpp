@@ -1066,7 +1066,6 @@ int main()
 	printf("#     # #       #       #     #      #   #    #    #     # #     # #       \n");
 	printf(" #####  #       #######  #####       #    ####     ######  #     # #       \n");
 	printf("---------------------------------------------------------------------------\n");
-	printf("Produce by Jiawei Dong, Rene Dominguez,Patrick Bishop.\n");
 	printf("---------------------------------------------------------------------------\n\n\n");
 	printf("Input your jpeg file location:\n");
 	scanf("%s", input);
